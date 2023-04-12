@@ -1,0 +1,16 @@
+.image{
+    width: 120px!important;
+}
+.pagination a {
+    margin: 9px;
+    border: 1px solid;
+    padding: 6px;
+
+  }
+
+  .current {
+    color: red !important;
+    margin: 9px;
+    border: 1px solid;
+    padding: 6px;
+  }
